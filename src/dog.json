@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/dog4.jpg"
+  },
+  {
+    "id": 2,
+    "image": "./assets/dog5.jpeg"
+  },
+  {
+    "id": 3,
+    "image": "./assets/dog6.jpg"
+  },
+  {
+    "id": 4,
+    "image": "./assets/dog7.jpg"
+  },
+  {
+    "id": 5,
+    "image": "./assets/dog8.jpg"
+  },
+  {
+    "id": 6,
+    "image": "./assets/dog9.jpg"
+  },
+  {
+    "id": 7,
+    "image": "./assets/dog10.jpg"
+  },
+  {
+    "id": 8,
+    "image": "./assets/dog11.jpg"
+  },
+  {
+    "id": 9,
+    "image": "./assets/dog12.jpg"
+  },
+  {
+    "id": 10,
+    "image": "./assets/dog13.jpeg"
+  },
+  {
+    "id": 11,
+    "image": "./assets/dog14.jpeg"
+  },
+  {
+    "id": 12,
+    "image": "./assets/dog15.jpg"
+  }
+]
